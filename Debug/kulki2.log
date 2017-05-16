@@ -1,0 +1,23 @@
+﻿Build started 2017-05-16 15:07:13.
+     1>Project "C:\Users\Lipa\Desktop\Szkola\szkola\KULKI\kulki2\kulki2\kulki2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt grcz.cpp klk.cpp Lbrnt.cpp plnsz.cpp Source.cpp
+         Source.cpp
+         plnsz.cpp
+     1>c:\users\lipa\desktop\szkola\szkola\kulki\kulki2\kulki2\plnsz.cpp(10): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Lbrnt.cpp
+         klk.cpp
+         grcz.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lipa\Desktop\Szkola\szkola\KULKI\kulki2\kulki2\Debug\kulki2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lipa\Desktop\Szkola\szkola\KULKI\kulki2\kulki2\Debug\kulki2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lipa\Desktop\Szkola\szkola\KULKI\kulki2\kulki2\Debug\kulki2.lib" /MACHINE:X86 Debug\grcz.obj
+         Debug\klk.obj
+         Debug\Lbrnt.obj
+         Debug\plnsz.obj
+         Debug\Source.obj
+         kulki2.vcxproj -> C:\Users\Lipa\Desktop\Szkola\szkola\KULKI\kulki2\kulki2\Debug\kulki2.exe
+     1>Done Building Project "C:\Users\Lipa\Desktop\Szkola\szkola\KULKI\kulki2\kulki2\kulki2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.80
